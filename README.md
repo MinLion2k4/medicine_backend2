@@ -1,5 +1,14 @@
+## Cài đặt các thư viện
+
+```
 npm i
+```
 
+```
 composer i
+```
 
-RUN: php artisan serve
+## Để khởi chạy dự án
+```
+php artisan serve
+```
